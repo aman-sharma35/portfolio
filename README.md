@@ -1,1 +1,6 @@
 # portfolio
+For my portfolio website project, I created a single page website that showcased my projects, provided information about me, and included my contact details. The website had a responsive design that adapted to different screen sizes, ensuring a seamless user experience across devices.
+The website was divided into sections, with a fixed navigation menu that allowed visitors to jump to different sections of the page. The first section of the website included introduction of me, along with a call-to-action button that directed visitors to my projects section.
+The projects section showcased my various projects, including images, descriptions. Each project was displayed in a grid format, with hover effects enhance user engagement.
+The about me section included a more detailed description of myself, highlighting my work experience, and skills. It also included a profile picture and an option for visitors to download my resume. This section provided visitors with a better understanding of my background, interests, and achievements.
+Finally, the contact section included my mobile number, along with my email address and social media links. Visitors were able to connect with me on social media or contact me through my email or mobile number.
